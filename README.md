@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronald-gutierrez" alt="ronald-gutierrez" /></a> </p>
 
+
+- ⚡ Visit my portfolio page: [My Porfolio](https://ronaldgutierrez.netlify.app/)
 - 🔭 I’m currently working on **Personal projects**
 
 - 🌱 I’m currently learning **PHP,Android Studio,Unity**
@@ -13,7 +15,7 @@
 
 - 🤝 I’m looking for help with **New programming languages**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ronald-Gutierrez?tab=repositories](https://github.com/Ronald-Gutierrez?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Ronald-Gutierrez?tab=repositories)
 
 - 💬 Ask me about **Programming concepts and more**
 
